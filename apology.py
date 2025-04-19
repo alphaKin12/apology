@@ -6,6 +6,7 @@ st.set_page_config(
     page_icon="🥺",
     layout="centered"
 )
+st.image("https://github.com/alphaKin12/apology/blob/main/Screenshot_20250328_234910_Chrome.jpg?raw=true", width=300, caption="Forgive me? 🐶💔")
 
 # Main heading
 st.markdown("<h1 style='text-align: center; color: #ff6f61;'>I'm So Sorry, My Love</h1>", unsafe_allow_html=True)
