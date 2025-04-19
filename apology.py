@@ -39,22 +39,19 @@ poem = """
 To my sunshine with a stormy brow,  
 I wish I could hold you, here and now.  
 For every tear that found your cheek,  
-My silence hurt more than I could speak.
-
-
+My silence hurt more than I could speak.<br><br>
 
 A call I had to take, it stole  
 The moments meant to soothe your soul.  
 But please believe, it broke me too,  
-To not be there, to comfort you.
-
-
+To not be there, to comfort you.<br><br>
 
 From miles away, my heart still tries,  
 To send you love through silent skies.  
 So, Shinu, let this be my plea,  
 Forgive your fool, and smile for me. 🌻
 """
+
 
 st.markdown(f"<pre style='background-color:#fff7f7; color:#444; font-size: 16px; border-left: 4px solid #ffb6b6; padding: 1em; border-radius: 10px;'>{poem}</pre>", unsafe_allow_html=True)
 
