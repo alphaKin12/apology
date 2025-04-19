@@ -20,7 +20,9 @@ st.write("""
 
 Hey baby,
 
-I know you were hurt because I left the call last night... and I'm really, really sorry. I didn’t mean to make you feel ignored or unloved. I wish I could be there beside you, holding your hand, making it all okay.
+I know you were hurt because I left the call last night... and I'm really, really sorry. 
+
+I didn’t mean to make you feel ignored or unloved. I wish I could be there beside you, holding your hand, making it all okay.
 
 You matter more to me than any meeting, any task, any call. Every second without your smile feels incomplete. Please don’t let one small moment steal the joy we’ve built together.
 
@@ -39,10 +41,14 @@ I wish I could hold you, here and now.
 For every tear that found your cheek,  
 My silence hurt more than I could speak.
 
+
+
 A call I had to take, it stole  
 The moments meant to soothe your soul.  
 But please believe, it broke me too,  
 To not be there, to comfort you.
+
+
 
 From miles away, my heart still tries,  
 To send you love through silent skies.  
@@ -54,7 +60,5 @@ st.markdown(f"<pre style='background-color:#fff7f7; color:#444; font-size: 16px;
 
 # Puppy face
 st.markdown("<h4 style='text-align: center; color: #888;'>Me right now 🥺👇</h4>", unsafe_allow_html=True)
-st.image("https://i.imgur.com/8wKQpPb.gif", width=300, caption="Forgive me? 🐶💔", use_column_width=False)
-
 # Closing
 st.markdown("<p style='text-align: center; font-size:18px; color: #cc6699;'>Waiting for your smile again... 🌸</p>", unsafe_allow_html=True)
